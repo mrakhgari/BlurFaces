@@ -15,5 +15,7 @@ In this project, we used [open-cv](https://github.com/opencv/opencv) as main lib
 ## Requirements 
 You need python 3.6 or upper versions to run the codes. The other requirements are listed in the first cell of the code and you can install them by running the cell. 
 
-
-
+You can see an example of a human face in the below image: 
+![An image that contain face](/src/images/human.jpeg "A human image")
+After running the algorithm, the resulting image: 
+![An image that contain a blurred face](/src/images/result.jpeg "A human image with blurred face")
