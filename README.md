@@ -9,7 +9,7 @@ Practical applications of face blurring and anonymization include:
 - Dataset curation and distribution (e.g., anonymize individuals in dataset)
 - … and more [source](https://pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/)!
 
-In this project, we used [open-cv](https://github.com/opencv/opencv) as main library. The library provides functions for loading neural models. One of the successful models for face recognition is the [Yunet](https://github.com/geaxgx/depthai_yunet) model, to load this model and use it, it is necessary to give the `.onnx` file of this model to Open-cv, and this file was put in the [model folder](/model). 
+In this project, we used [open-cv](https://github.com/opencv/opencv) as main library. The library provides functions for loading neural models. One of the successful models for face recognition is the [Yunet](https://github.com/geaxgx/depthai_yunet) model, to load this model and use it, it is necessary to give the `.onnx` file of this model to Open-cv, and this file was put in the [model folder](./src/model). 
 
 
 ## Requirements 
